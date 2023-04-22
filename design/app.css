@@ -32,8 +32,8 @@ body {
   background-size: contain;
   max-width: 100%;
   z-index: -1;
-  background-color: var(--clr-neutral-800);
   position: relative;
+  background-color: var(--clr-primary-500);
 }
 /* change the background based of the size of the screen */
 @media (max-width: 45em) {
