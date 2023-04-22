@@ -9,7 +9,7 @@
   --clr-neutral-600: hsl(224, 23%, 55%);
   --clr-neutral-800: hsl(225, 100%, 98%);
 
-  --box-shadow: 0 7px 25px var(--clr-neutral-600);
+  --box-shadow: 0 6px 19px var(--clr-neutral-600);
 
   --border-width: 2em;
 }
@@ -78,7 +78,7 @@ body,
 
 @media (min-width: 45em) {
   .order-summary {
-    max-width: 28em;
+    max-width: 22em;
   }
 }
 
@@ -99,7 +99,7 @@ body,
 
 .info .heading {
   margin: 1em 0 0.7em;
-  font-size: 2rem;
+  font-size: 1.5rem;
   font-weight: 900;
 }
 
